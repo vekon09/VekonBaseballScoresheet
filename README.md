@@ -11,7 +11,14 @@ If you want to customize the scoresheets, you can edit the included **SVG files*
  
 ## **Support**  
 If you like the scorecards and want to support this project, you can donate via Ko-fi:  
-[https://ko-fi.com/vekon](https://ko-fi.com/vekon)  
+[https://ko-fi.com/vekon](https://ko-fi.com/vekon) 
+
+## **Changelog**  
+### **v1.1.1**  
+- Fixed the off-center stat letters in the pitcher boxes.  
+
+### **v1.1**  
+- Aligned the pitcher stats boxes with the R, H, E, and LOB boxes. 
 
 ## **License**  
 This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.  

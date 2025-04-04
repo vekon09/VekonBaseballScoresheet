@@ -1,5 +1,5 @@
 # **Vekon Baseball Scorecard**  
-![alt text](image-url)
+![](https://github.com/vekon09/VekonBaseballScoresheet/blob/main/scorecard%20(2).png)
 
 This repository contains a customizable baseball scorecard available in both **printable PDF** format and **modifiable SVG** format. The scorecards are free to use, modify, and share.  
 

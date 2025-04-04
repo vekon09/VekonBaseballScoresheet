@@ -1,13 +1,13 @@
-# **Vekon Baseball Scorecsheet**  
+# **Vekon Baseball Scoresheet**  
 ![](https://github.com/vekon09/VekonBaseballScoresheet/blob/main/scorecard%20(2).png)
 
 This repository contains a customizable baseball scoresheet available in both **printable PDF** format and **modifiable SVG** format. The scorecards are free to use, modify, and share.  
 
-## **Download the Scorecards**  
+## **Download the Scoresheets**  
 To download the latest printable PDFs, go to the **[Releases](https://github.com/vekon09/VekonBaseballScoresheet/releases)** section of this repository.  
 
 ## **Modify the Scoresheets**  
-If you want to customize the scorecards, you can edit the included **SVG files** using any vector graphics software such as Inkscape.  
+If you want to customize the scoresheets, you can edit the included **SVG files** using any vector graphics software such as Inkscape.  
  
 ## **Support**  
 If you like the scorecards and want to support this project, you can donate via Ko-fi:  

@@ -3,16 +3,20 @@
 
 This repository contains a customizable baseball scoresheet available in both **printable PDF** format and **modifiable SVG** format. The scorecards are free to use, modify, and share.  
 
+## **Support**  
+☕️ Appreciate the scorecards?  
+I’d really appreciate a small donation on [Ko-fi](https://ko-fi.com/vekon) — thank you! 
+
+<a href="https://ko-fi.com/vekon">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTg2OWt5aTNlNHZkeXQ4eHRsMHc2NHRoNjljeTNqbHF5eGw3OTJ4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6JM9MXBh0z4VcVRUOP/giphy.gif" width="20%" height="20%">
+</a>
+
 ## **Download the Scoresheets**  
 To download the latest printable PDFs, go to the **[Releases](https://github.com/vekon09/VekonBaseballScoresheet/releases)** section of this repository.  
 
 ## **Modify the Scoresheets**  
 If you want to customize the scoresheets, you can edit the included **SVG files** using any vector graphics software such as Inkscape.  
  
-## **Support**  
-If you like the scorecards and want to support this project, you can donate via Ko-fi:  
-[https://ko-fi.com/vekon](https://ko-fi.com/vekon) 
-
 ## **Changelog**  
 ### **v1.1.1**  
 - Fixed the off-center stat letters in the pitcher boxes.  
